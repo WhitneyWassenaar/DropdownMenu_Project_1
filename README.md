@@ -20,4 +20,26 @@ But I got this far<br>
 With <code>position:absolute;</code> and <code>Top:-190px;</code> I could get this, but it is hard coding and not very responsive<br>
 ![image](https://github.com/user-attachments/assets/b0647e76-23b4-4cdb-bf92-6dca1ad489a1)
 
-## ## Wednesday | 28-5-2025 | 20:06
+## Wednesday | 28-5-2025 | 20:06
+`position: static | relative | absolute | fixed | sticky;`
+
+`position:static;`: default value. Has no effect on the element.
+ <br>`position: relative | absolute | fixed | sticky;`: With these values you can use the properties:
+ 1. `top`
+ 2. `bottom`
+ 3. `left`
+ 4. `right`
+ 5. `z-index`
+
+`position:relative;`<br>
+Using `top`, `left` will offset the element from it's initial top and left value. Pushing away the element from it's static position.<br>
+<a href="https://codepen.io/Wassenaar/pen/qEddPEP" alt="demo position:relative;">Try demo on CodePen</a><br>
+<img src="https://global.discourse-cdn.com/freecodecamp/original/4X/0/1/c/01ce1a46aa901418f35f666fffc5906c8f448beb.png" alt="example of an element with position:relative" width="500"><img src="https://global.discourse-cdn.com/freecodecamp/original/4X/a/9/0/a90cf2abdea69abd812f67df14f5c4572ee5e988.png" alt="example of an element with position:relative" width="500">
+
+
+<hr>
+
+`position:fixed;`<br>
+Element is fixed on the page. You can place it in any position you like.<br>
+<a href="https://codepen.io/Wassenaar/pen/XJbbZoV" alt="demo position:relative;">Try demo on CodePen</a><br>
+<img src="https://global.discourse-cdn.com/freecodecamp/original/4X/1/d/7/1d7b9cca1b78aee4c5e15813692c8476219f4e02.png" alt="demo of position:fixed;" width="1000">
