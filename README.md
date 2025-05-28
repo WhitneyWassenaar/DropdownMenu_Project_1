@@ -40,6 +40,6 @@ Using `top`, `left` will offset the element from it's initial top and left value
 <hr>
 
 `position:fixed;`<br>
-Element is fixed on the page. You can place it in any position you like.<br>
+Element is fixed on the page. You can place it in any position you like. In the demo you also learn about centering an element with the `translate`property.<br>
 <a href="https://codepen.io/Wassenaar/pen/XJbbZoV" alt="demo position:relative;">Try demo on CodePen</a><br>
 <img src="https://global.discourse-cdn.com/freecodecamp/original/4X/1/d/7/1d7b9cca1b78aee4c5e15813692c8476219f4e02.png" alt="demo of position:fixed;" width="1000">
