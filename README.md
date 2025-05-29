@@ -34,7 +34,7 @@ With <code>position:absolute;</code> and <code>Top:-190px;</code> I could get th
 `position:relative;`<br>
 Using `top`, `left` will offset the element from it's initial top and left value. Pushing away the element from it's static position.<br>
 <a href="https://codepen.io/Wassenaar/pen/qEddPEP" alt="demo position:relative;">Try demo on CodePen</a><br>
-<img src="https://global.discourse-cdn.com/freecodecamp/original/4X/0/1/c/01ce1a46aa901418f35f666fffc5906c8f448beb.png" alt="example of an element with position:relative" width="500"><img src="https://global.discourse-cdn.com/freecodecamp/original/4X/a/9/0/a90cf2abdea69abd812f67df14f5c4572ee5e988.png" alt="example of an element with position:relative" width="500">
+<img src="https://global.discourse-cdn.com/freecodecamp/original/4X/0/1/c/01ce1a46aa901418f35f666fffc5906c8f448beb.png" alt="example of an element with position:relative" width="400"><img src="https://global.discourse-cdn.com/freecodecamp/original/4X/a/9/0/a90cf2abdea69abd812f67df14f5c4572ee5e988.png" alt="example of an element with position:relative" width="400">
 
 
 <hr>
