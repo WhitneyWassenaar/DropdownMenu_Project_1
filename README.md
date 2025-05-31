@@ -43,7 +43,7 @@ Using `top`, `left` will offset the element from it's initial top and left value
 Element is fixed on the page. You can place it in any position you like. In the demo you also learn about centering an element with the `translate`property.<br>
 <a href="https://codepen.io/Wassenaar/pen/XJbbZoV" alt="demo position:relative;">Try demo on CodePen</a><br>
 <img src="https://global.discourse-cdn.com/freecodecamp/original/4X/1/d/7/1d7b9cca1b78aee4c5e15813692c8476219f4e02.png" alt="demo of position:fixed;" width="1000">
-
+<hr>
 
 `position:sticky;`<br>
 A tricky property. 
@@ -54,6 +54,10 @@ A tricky property.
    <a href="https://codepen.io/Wassenaar/pen/yyNNKEE" alt="demo position:relative;">Try demo on CodePen (default alignment of blue element)</a><br>
 <a href="https://codepen.io/Wassenaar/pen/RNPWVGJ" alt="demo position:relative;">Try demo on CodePen (aligning the blue element to the right side of the container using flexbox)</a><br>
    <img src="https://global.discourse-cdn.com/freecodecamp/original/4X/c/e/3/ce3ff9299cbed5ff47c7e8ef887928ddcb165577.png" alt="demo of position:sticky;"><br>
+<hr>
 
-
+`position:absolute;`<br>
+With `position:absolute;` you can position a child element inside a parent element. To do this the parent element should have `position:relative;`.<br>
+   <a href="https://codepen.io/Wassenaar/pen/ZYGWYKj" alt="demo position:absolute;">Try demo on CodePen </a><br>
+ <img src="https://global.discourse-cdn.com/freecodecamp/original/4X/4/5/2/4522709db05c5c19dfe2a3aa7db0c2b16a788524.png" alt="demo of position:absolute;">
 
